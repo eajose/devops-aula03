@@ -3,4 +3,4 @@
 * Git
 * Bruno é legal.
 * Bruno é muito gente boa.
-* Bruno é pica.
+
