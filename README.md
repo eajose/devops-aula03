@@ -1,5 +1,6 @@
 # Ferramentas de controle de versão:
 * Mercurial
 * Git
-* Subversion
-* CSV
+* Bruno é legal.
+* Bruno é muito gente boa.
+
