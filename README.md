@@ -1,5 +1,6 @@
 # Ferramentas de controle de versão:
 * Mercurial
 * Git
-* CheetCheetCheetos
-* Dick
+* Bruno é legal.
+* Bruno é muito gente boa.
+* Bruno é pica.
